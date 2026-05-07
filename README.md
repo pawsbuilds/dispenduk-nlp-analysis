@@ -28,5 +28,6 @@ Analisis ini menerapkan arsitektur Hybrid NLP untuk mendapatkan informasi yang k
    ```bash
    git clone [https://github.com/pawbuilds/dispenduk-nlp-analysis.git]
 2. Instalasi library yang dibutuhkan
+    ```bash
     pip install -r requirements.txt
 3. Jalankan notebook pada direktori notebooks/ untuk melihat alur kerja lengkap dari preprocessing hingga modeling.
