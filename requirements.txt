@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+
+scikit-learn
+gensim
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+
+matplotlib
+seaborn
+pyLDAvis
+plotly
